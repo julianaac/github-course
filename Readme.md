@@ -15,4 +15,4 @@ C
 B
 B
 C
-# gitcurse d
+# gitcurse dd
